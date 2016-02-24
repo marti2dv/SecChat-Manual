@@ -1,0 +1,40 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+
+h1 {
+    color:white;
+    background-color: blue;
+    margin: 0px 0px 0px 0px;
+    padding: 20px 0px 20px 20px;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 20px 0px 0px 20px;
+}
+
+
+p {
+    width: 750px;
+    margin: 20px 0px 20px 20px;
+}
+
+.answer {
+    margin-left: 40px;
+}
+
+b {
+    font-size: 20px;
+}
+
+img {
+    margin: 0px 0px 0px 20px;
+}
+
+#ui {
+    width: 900px;
+    height: 500px;
+    border: 1px solid black;
+}
